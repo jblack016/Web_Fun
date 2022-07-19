@@ -1,0 +1,35 @@
+*{
+
+}
+/* Search Button */
+
+.search{
+  display:block
+  width: 100px;
+  background-color: rgb(245,245,245);
+border: 1px solid rgb(29, 160, 161);
+border-radius: 10px;
+color: rgb(29, 160, 161);
+}
+
+/* + button */
+
+button{
+  display:block;
+  border: 1px solid rgb(1, 209, 179);
+  border-radius: 50%;
+  background-color: rgb(1, 209, 179);
+  color: white;
+}
+
+/* Create Account Button */
+
+#create{
+  display:block;
+  width: 100px;
+  border: 1px solid black;
+  box-shadow: 2px 2px black;
+  background-color: rgb(42, 120, 228);
+  color: white;
+  
+}
