@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+  margin: 5px;
+  padding: 5px;
+  font-family:sans-serif
+}
+
+.white {
+  color: white;
+}
+
+
+.blue{
+  color: rgb(0, 255, 255);
+}
+
+
+
+h2 {
+  background-color: rgb(101, 51, 153);
+  color: white;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  font-family:sans-serif
+}
+
+h3 {
+  background-color: rgb(159, 197, 248);
+  text-decoration: underline;
+  color: rgb(43, 34, 91);
+  text-align: right;
+  margin: 5px;
+  padding: 5px;
+  font-family:sans-serif
+}
