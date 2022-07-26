@@ -1,0 +1,144 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+/* Generic Classes */
+
+.flex{
+  display: flex;
+}
+
+.justifyAround{
+  justify-content: space-around;
+}
+
+.justifyBetween{
+  justify-content: space-between;
+}
+
+.justifyEvenly{
+  justify-content: space-evenly;
+}
+
+.justifyCenter{
+  justify-content: center;
+}
+
+.alignCenter{
+  align-items: center;
+}
+
+.centerText{
+  text-align: center;
+}
+
+.verticalCenter{
+vertical-align:bottom;
+}
+
+/* Colors */
+
+.navBackground{
+  color: white;
+  background-color: black;
+}
+
+.btnBackground{
+background-color: rgb(255, 217, 102);
+}
+
+a{
+  color: blue
+}
+
+/* Navigation Bar */
+
+nav{
+  height: 50px;
+  width: auto;
+}
+
+.navH1{
+  padding: 12px;
+}
+
+/* Body */
+
+.container{
+  height: 500px;
+  width: 450px;
+  margin-left: 230px;
+  /* border: 2px solid black; */
+}
+
+.left{
+height: 500px;
+width: 175px;
+/* border: 1px solid red; */
+}
+
+.right{
+height: 500px;
+width: 275px;
+/* border: 1px solid blue; */
+}
+
+
+/* Left Side */
+
+
+.userBox{
+height: 200px;
+width: 150px;
+border: 3px solid black;
+}
+
+#userIcon{
+  height: 60px;
+  width: 60px;
+  padding: 15px;
+}
+
+#userPara{
+  padding: 10px;
+}
+
+
+/* Right Side */
+
+.peopleBox{
+height: 100px;
+width: 275px;
+border: 3px solid black;
+margin-bottom: 10px;
+}
+
+.btn{
+  height:30px;
+  width: 50px;
+  border: 3px solid black;
+  box-shadow: 4px 4px black;
+  padding-top: 5px;
+  padding-left: 7px;
+}
+
+button{
+  font-size: medium;
+font-weight: bold;
+}
+
+.insdieBox{
+  padding: 10px;
+}
+
+.peoplePara{
+  font-size: smaller;
+  font-weight: bolder;
+  padding-left: 10px;
+}
+
+h3{
+  padding-right: 55px;
+}
